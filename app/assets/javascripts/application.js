@@ -12,4 +12,6 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require angular-devise
+//= require angular-devise/lib/devise
 //= require_tree .

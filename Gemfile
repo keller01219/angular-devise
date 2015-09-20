@@ -29,3 +29,6 @@ end
 group :production do
   gem 'rails_12factor'
 end
+source "https://rails-assets.org" do
+  gem "rails-assets-angular-devise"
+end
